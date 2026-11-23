@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ENTRY_LINE = "I told the doctor I don't have time to be sick; she said that was the problem."
+ENTRY_LINE = "I told my doctor I don't have time to be sick; she said, 'That's the sickness.'"
 
 
 def main():
